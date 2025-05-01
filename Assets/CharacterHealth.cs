@@ -122,6 +122,14 @@ public class CharacterHealth : MonoBehaviour
             attackScript.DisableAttacks();
         }
         
+        // Stop sliding after death
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.isKinematic = true; // Optional: disables further physics
+        }
+
         Debug.Log($"<color=purple>{gameObject.name} has died!</color>");
     }
     

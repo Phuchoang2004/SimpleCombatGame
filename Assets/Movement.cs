@@ -34,6 +34,7 @@ public class Movement : MonoBehaviour
     private float lastDashTime;
     private Vector3 originalScale;
     private int facingDirection = 1;
+    private float aiMoveInput = 0f;
     [Header("Debug")]
     public bool showDebugInfo = true;
     public Color groundedColor = Color.green;
@@ -74,8 +75,15 @@ public class Movement : MonoBehaviour
         float horizontalInput = 0f;
         if (!attackScript || (!attackScript.IsAttacking() && !isDashing && !isDefending))
         {
-            if (Input.GetKey(leftKey)) horizontalInput -= 1f;
-            if (Input.GetKey(rightKey)) horizontalInput += 1f;
+            if (aiMoveInput != 0f) // AI control
+            {
+                horizontalInput = aiMoveInput;
+            }
+            else // Player control
+            {
+                if (Input.GetKey(leftKey)) horizontalInput -= 1f;
+                if (Input.GetKey(rightKey)) horizontalInput += 1f;
+            }
         }
         moveInput = isDefending ? 0f : horizontalInput;
         if (moveInput > 0)
@@ -242,5 +250,10 @@ public class Movement : MonoBehaviour
     public bool IsStunned()
     {
         return isStunned;
+    }
+
+    public void SetAIMoveInput(float input)
+    {
+        aiMoveInput = input;
     }
 }
