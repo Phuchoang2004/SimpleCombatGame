@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 2f88f0041926f8140925123f5afed9a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6155352861827376939
+    second: DASH_0
+  - first:
+      213: 5246564588947137625
+    second: DASH_1
+  - first:
+      213: 869278189650150507
+    second: DASH_2
+  - first:
+      213: -7105362046883229490
+    second: DASH_3
+  - first:
+      213: -6140239544766606957
+    second: DASH_4
+  - first:
+      213: 1491388436357712059
+    second: DASH_5
+  - first:
+      213: -3017777526634739843
+    second: DASH_6
+  - first:
+      213: -1381015812776631685
+    second: DASH_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DASH_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5d77c562b5b0144b2bef2bf8096635
+      internalID: 635468291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 16
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a214adf9cbf3d498aa4f18e43cd27d
+      internalID: -2059308076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 16
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e96d333ab666c4b9012d921bf7c4c2
+      internalID: -579334100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 16
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b066fb1f001a43a0e50fe78717ad2
+      internalID: -561400295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 16
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8a97ef8348c3449ffac2bd26a3eb8
+      internalID: -426568051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 16
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24837de171d5528479745695bdd01f38
+      internalID: 2087478077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 16
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195a898113ffd94e978c4ff549c5e76
+      internalID: -1856013818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 16
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f1da489a5261b40bc131609b9b973b
+      internalID: -994937158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 622080eaa395c9f4b9a7bc4283f71dfe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DASH_0: 635468291
+      DASH_1: -2059308076
+      DASH_2: -579334100
+      DASH_3: -561400295
+      DASH_4: -426568051
+      DASH_5: 2087478077
+      DASH_6: -1856013818
+      DASH_7: -994937158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

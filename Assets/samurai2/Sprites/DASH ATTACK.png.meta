@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d7e649fb918366b4bbc2da2c9f156293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2434633220021155577
+    second: DASH ATTACK_0
+  - first:
+      213: -3103327561143108695
+    second: DASH ATTACK_1
+  - first:
+      213: 6553963188973205681
+    second: DASH ATTACK_2
+  - first:
+      213: -6440853882449054891
+    second: DASH ATTACK_3
+  - first:
+      213: 3281906416268265256
+    second: DASH ATTACK_4
+  - first:
+      213: -7348451400521457936
+    second: DASH ATTACK_5
+  - first:
+      213: -6444606155270972608
+    second: DASH ATTACK_6
+  - first:
+      213: -3055397265071886228
+    second: DASH ATTACK_7
+  - first:
+      213: -1564587797289902466
+    second: DASH ATTACK_8
+  - first:
+      213: 6854818468338811795
+    second: DASH ATTACK_9
+  - first:
+      213: 6068932129606598200
+    second: DASH ATTACK_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DASH ATTACK_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ddb59179e86444abc421b9a917168
+      internalID: -652722026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 16
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e55f22231f0bf45805dc1455a6e487
+      internalID: -680068220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 16
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a15068bc204bc478c38ced90febe59
+      internalID: -500241711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228351706e98534cb05dd5516acbc76
+      internalID: 493768456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 16
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945fd92ef3dd6948889124bdfbf0fff
+      internalID: 1638075888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 16
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3274f07fa6da541b9eaa534503be4b
+      internalID: 141744538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 16
+        width: 69
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874d6e3fe7ee3e43bd965db7f8890f4
+      internalID: -847879716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 16
+        width: 52
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5dc49e77c212044acfa732723361db
+      internalID: -1956484984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 16
+        width: 52
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c386a22cc64c4499769841fc0c7b3
+      internalID: -904774000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 16
+        width: 52
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb17e0c5dac7ae44bbace45fa0eb1c2d
+      internalID: -334075117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH ATTACK_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 16
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74441d2aa96d4144ba5fd9ca108d1df
+      internalID: 1527923528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 93f7bad3bafda174ba2197b091f595a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DASH ATTACK_0: -652722026
+      DASH ATTACK_1: -680068220
+      DASH ATTACK_10: 1527923528
+      DASH ATTACK_2: -500241711
+      DASH ATTACK_3: 493768456
+      DASH ATTACK_4: 1638075888
+      DASH ATTACK_5: 141744538
+      DASH ATTACK_6: -847879716
+      DASH ATTACK_7: -1956484984
+      DASH ATTACK_8: -904774000
+      DASH ATTACK_9: -334075117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

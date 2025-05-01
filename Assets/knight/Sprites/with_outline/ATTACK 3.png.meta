@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: ea1aa53d0142a684a9474c669867b5be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5657851921139860834
+    second: ATTACK 3_0
+  - first:
+      213: 8167334401786168451
+    second: ATTACK 3_1
+  - first:
+      213: -2486501126090535953
+    second: ATTACK 3_2
+  - first:
+      213: 5461953342878467935
+    second: ATTACK 3_3
+  - first:
+      213: 2706193367312493655
+    second: ATTACK 3_4
+  - first:
+      213: -8047713305943468122
+    second: ATTACK 3_5
+  - first:
+      213: -2616100659346094035
+    second: ATTACK 3_6
+  - first:
+      213: -401008498080134979
+    second: ATTACK 3_7
+  - first:
+      213: 5010935248932497974
+    second: ATTACK 3_8
+  - first:
+      213: -573243720678724564
+    second: ATTACK 3_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATTACK 3_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 22
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ca017878d57d4e9c7e228213490b5
+      internalID: -860657786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK 3_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 22
+        width: 53
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4021739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb94f74b5c5c6440b491b92a3c6918c
+      internalID: 1190123680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK 3_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 22
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb90c8ca64692049be50ceb497bc2ff
+      internalID: -1880134180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK 3_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf26d3cd01a35d54fa0dba8bcbc30d1b
+      internalID: -1845540197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK 3_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 22
+        width: 56
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1d0610295dfe408ad5d250be11dec
+      internalID: 107837992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK 3_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 22
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d03a3861899a4fa433707106ae475
+      internalID: 2066381908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da74f14ba73efc84090a3e5f541229c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ATTACK 3_0: -860657786
+      ATTACK 3_1: 1190123680
+      ATTACK 3_2: -1880134180
+      ATTACK 3_3: -337261430
+      ATTACK 3_4: -1601234103
+      ATTACK 3_5: -1845540197
+      ATTACK 3_6: 107837992
+      ATTACK 3_7: 1586475375
+      ATTACK 3_8: 2066381908
+      ATTACK 3_9: -1265190481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
