@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class OpponentAI : MonoBehaviour
 {
-    public Transform target; // Assign the player character in Inspector or via script
+    public Transform target; 
     public float moveSpeed = 2f;
     public float attackRange = 1.5f;
     private CharacterAttack attackScript;

@@ -3,14 +3,14 @@ using UnityEngine;
 public class StaminaManager : MonoBehaviour
 {
     [Header("Stamina Bar References")]
-    public GameObject staminaBar1; // First character's stamina bar container
-    public GameObject staminaBar2; // Second character's stamina bar container
-    public Transform staminaFill1; // The stamina bar fill for character 1
-    public Transform staminaFill2; // The stamina bar fill for character 2
+    public GameObject staminaBar1; 
+    public GameObject staminaBar2; 
+    public Transform staminaFill1; 
+    public Transform staminaFill2; 
     
     [Header("Character References")]
-    public CharacterAttack character1Attack; // First character's attack component
-    public CharacterAttack character2Attack; // Second character's attack component
+    public CharacterAttack character1Attack; 
+    public CharacterAttack character2Attack; 
     
     [Header("Stamina Bar Settings")]
     [Tooltip("If true, staminaBar1 will reduce from right to left")]
@@ -25,7 +25,6 @@ public class StaminaManager : MonoBehaviour
 
     void Start()
     {
-        // Store original scales and positions
         if (staminaFill1 != null)
         {
             staminaFill1OriginalScale = staminaFill1.localScale;
@@ -38,7 +37,6 @@ public class StaminaManager : MonoBehaviour
             staminaFill2OriginalPosition = staminaFill2.localPosition;
         }
         
-        // Try to find character attack components if not set
         if (character1Attack == null && staminaBar1 != null)
         {
             Debug.LogWarning("Character1Attack not set in StaminaManager. Please assign it in the inspector.");

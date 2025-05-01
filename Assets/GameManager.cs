@@ -7,9 +7,9 @@ public class GameManager : MonoBehaviour
     public enum GameMode { None, OneVOne, OneVAI }
     public GameMode SelectedMode = GameMode.None;
 
-    public GameObject menuPanel; // Assign in Inspector
-    public GameObject restartButton; // Assign in Inspector
-    public OpponentAI opponentAI; // Assign in Inspector
+    public GameObject menuPanel; 
+    public GameObject restartButton; 
+    public OpponentAI opponentAI; 
 
     void Awake()
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class AudioManager : MonoBehaviour
 {
     [Header("Music")]
-    public AudioClip[] backgroundMusic; // Assign 3 music tracks in inspector
+    public AudioClip[] backgroundMusic; 
     public AudioSource musicSource;
     private int lastMusicIndex = -1;
 

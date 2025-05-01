@@ -3,20 +3,20 @@ using UnityEngine;
 public class HealthBarManager : MonoBehaviour
 {
     [Header("Health Bar References")]
-    public GameObject healthBar1; // First character's health bar container
-    public GameObject healthBar2; // Second character's health bar container
-    public Transform healthFill1; // The red bar inside healthBar1 that will be scaled
-    public Transform healthFill2; // The red bar inside healthBar2 that will be scaled
+    public GameObject healthBar1; 
+    public GameObject healthBar2; 
+    public Transform healthFill1; 
+    public Transform healthFill2; 
     
     [Header("Character References")]
-    public CharacterHealth character1Health; // First character's health component
-    public CharacterHealth character2Health; // Second character's health component
+    public CharacterHealth character1Health; 
+    public CharacterHealth character2Health; 
     
     [Header("Health Bar Settings")]
     [Tooltip("If true, healthBar1 will reduce from right to left")]
-    public bool reverseHealthBar1 = true; // Set to true to make health bar 1 reduce to the left
+    public bool reverseHealthBar1 = true; 
     [Tooltip("If true, healthBar2 will reduce from right to left")]
-    public bool reverseHealthBar2 = false; // Set to false to make health bar 2 reduce to the right
+    public bool reverseHealthBar2 = false;
     
     private Vector3 healthFill1OriginalScale;
     private Vector3 healthFill2OriginalScale;
@@ -25,7 +25,6 @@ public class HealthBarManager : MonoBehaviour
 
     void Start()
     {
-        // Store original scales and positions
         if (healthFill1 != null)
         {
             healthFill1OriginalScale = healthFill1.localScale;
@@ -38,7 +37,6 @@ public class HealthBarManager : MonoBehaviour
             healthFill2OriginalPosition = healthFill2.localPosition;
         }
         
-        // Try to find character health components if not set
         if (character1Health == null && healthBar1 != null)
         {
             Debug.LogWarning("Character1Health not set in HealthBarManager. Please assign it in the inspector.");
